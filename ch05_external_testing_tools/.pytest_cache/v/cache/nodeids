@@ -1,0 +1,6 @@
+[
+  "testing_rachel.py::TestCalculatorExample::test_calculator_add_method_returns_correct_result",
+  "testing_rachel.py::TestCalculatorExample::test_calculator_return_error_message_if_y_arg_not_number",
+  "testing_rachel.py::TestCalculatorExample::test_calculator_returns_error_message_if_both_args_not_numbers",
+  "testing_rachel.py::TestCalculatorExample::test_calculator_returns_error_message_if_x_arg_not_number"
+]
